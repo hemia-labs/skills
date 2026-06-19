@@ -1,0 +1,8 @@
+interface:
+  display_name: "Spec To Phased Roadmap"
+  short_description: "Turn specs into roadmap and progress docs"
+  default_prompt: "Use $spec-to-phased-roadmap to create a phased roadmap and one living progress document from my specification files."
+
+policy:
+  allow_implicit_invocation: true
+

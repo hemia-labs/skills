@@ -1,0 +1,7 @@
+interface:
+  display_name: "NestJS Backend Architecture"
+  short_description: "Apply NestJS, TypeORM, PostgreSQL backend architecture rules"
+  default_prompt: "Use $nestjs-backend-architecture when creating, reviewing, or modifying NestJS backend code in apps/api."
+
+policy:
+  allow_implicit_invocation: true

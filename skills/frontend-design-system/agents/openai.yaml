@@ -1,0 +1,7 @@
+interface:
+  display_name: "Frontend Design System"
+  short_description: "Apply Next.js, Tailwind CSS v4, and shadcn product UI rules"
+  default_prompt: "Use $frontend-design-system when creating, reviewing, or modifying frontend UI in apps/web."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hemia SSO NestJS"
+  short_description: "Implement Hemia SSO with NestJS, @hemia/auth, Redis, and HttpOnly sessions"
+  default_prompt: "Use $hemia-sso-nestjs when implementing or reviewing Hemia SSO in a NestJS app."
+
+policy:
+  allow_implicit_invocation: true

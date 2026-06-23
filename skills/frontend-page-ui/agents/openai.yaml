@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Page UI"
+  short_description: "Page headings, breadcrumbs, and UI scale rules"
+  default_prompt: "Use $frontend-page-ui to build or review a Hemia Docs app page with correct headings, breadcrumbs, descriptions, and layout classes."
